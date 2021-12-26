@@ -1,4 +1,9 @@
 # ------ Project ------
+*.fmi
+*.que
+*.sol
+*.vscode
+/graphs/
 
 # ------ C++ ------
 # Prerequisites
